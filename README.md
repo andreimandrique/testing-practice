@@ -14,7 +14,7 @@ then run
 jest
 ```
 
-to run all test or
+to run all test run
 
 ```
 jest /filename location/
